@@ -7,3 +7,13 @@
 
 
 Hi java.....
+
+class abc{
+public static void main(){
+
+
+
+}
+
+
+}
